@@ -10,3 +10,7 @@ filters:
 hostnames:
   - ip-address
   - dns-name
+
+keyed_groups:
+  - key: tags.Name
+    separator: ''

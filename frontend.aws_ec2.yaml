@@ -7,3 +7,6 @@ filters:
   instance-state-name: running
   tag:Name: roboshop-frontend
 
+hostnames:
+  - ip-address
+  - dns-name
